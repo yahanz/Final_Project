@@ -1,10 +1,12 @@
-# Title: 
+# Title: Coffee Shop Monte Carlo Simulation
 
 ## Team Member(s):
-(Note: Don't put your email addresses here (which is public).  If a student wants their NAME hidden as well, due to optional FERPA regulations, they can be listed purely by their GitHub ID).
+Zhongwei Huang, Yahan Zhang
 
 # Monte Carlo Simulation Scenario & Purpose:
-(be sure to read the instructions given in course Moodle)
+Johanna comes to a coffee shop and wants to buy a cup of coffee. There are some people waiting in a line, so Johanna wants to estimate how long she needs to wait for to get a coffee.
+
+The statistics we are interested in are Johanna's wait time and two baristas’ break time.
 
 ## Simulation's variables of uncertainty
 List and describe your simulation's variables of uncertainty (where you're using pseudo-random number generation). For each such variable, how did you decide the range and probability distribution to use?  Do you think it's a good representation of reality?
