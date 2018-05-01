@@ -18,4 +18,4 @@ List and describe your simulation's variables of uncertainty (where you're using
 ## Instructions on how to use the program:
 
 ## All Sources Used:
-
+Miller & Ranum: Problem Solving with Algorithms and Data Structures Using Python, Section 3.4, pages 106-119
