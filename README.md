@@ -21,13 +21,13 @@ size of a cup of coffee: tall, grande, venti
       
       Pr        0.25        0.5       0.25
 
-time of ordering a cup of coffee: Truncated Normal (mean=25, s.d=5, lower=5, upper=60)
+time of ordering a cup of coffee: Truncated Normal (mean=25, std=5, lower=5, upper=60)
 
-time of making a tall cup of coffee: Truncated Normal (mean=25, s.d=5, lower=5, upper=80)
+time of making a tall cup of coffee: Truncated Normal (mean=25, std=5, lower=5, upper=80)
 
-time of making a grande cup of coffee: Truncated Normal (mean=28, s.d=7, lower=5, upper=80)
+time of making a grande cup of coffee: Truncated Normal (mean=28, std=7, lower=5, upper=80)
 
-time of making a venti cup of coffee:Truncated Normal (mean=30, s.d=8, lower=5, upper=80)
+time of making a venti cup of coffee:Truncated Normal (mean=30, std=8, lower=5, upper=80)
 
 After we generate times from truncated normal distributions, we would round them into integers.
 
