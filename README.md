@@ -32,7 +32,9 @@ time of making a venti cup of coffee:Truncated Normal (mean=30, std=8, lower=5, 
 After we generate times from truncated normal distributions, we would round them into integers.
 
 ## Hypothesis or hypotheses before running the simulation:
+The wait time and break time may follow normal distribution. 
 
+The barista B may have more break time.
 
 ## Analytical Summary of your findings: (e.g. Did you adjust the scenario based on previous simulation outcomes?  What are the management decisions one could make from your simulation's output, etc.)
 
