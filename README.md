@@ -14,17 +14,16 @@ The statistics we are interested in are Johanna's wait time and two baristas’ 
       Number      0     1    2     3     4     5     6     7     8
       
       Pr        0.04  0.08  0.12  0.16  0.2   0.16  0.12  0.08  0.04
-
 2. size of a cup of coffee: tall, grande, venti     
 
       Size      Tall      Grande      Venti
       
       Pr        0.25        0.5       0.25
-
 3. time of ordering a cup of coffee: Truncated Normal (mean=25, std=5, lower=5, upper=60)
 4. time of making a tall cup of coffee: Truncated Normal (mean=25, std=5, lower=5, upper=80)
 5. time of making a grande cup of coffee: Truncated Normal (mean=28, std=7, lower=5, upper=80)
 6. time of making a venti cup of coffee:Truncated Normal (mean=30, std=8, lower=5, upper=80)
+
 After we generate times from truncated normal distributions, we would round them into integers.
 
 ## Hypothesis or hypotheses before running the simulation:
