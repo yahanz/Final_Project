@@ -31,7 +31,7 @@ After we generate times from truncated normal distributions, we would round them
 2. The barista B may have more break time.
 
 ## Analytical Summary of your findings: (e.g. Did you adjust the scenario based on previous simulation outcomes?  What are the management decisions one could make from your simulation's output, etc.)
-We first designed a relatively simple scenario where there was only one barista. Based on the simulation outcomes we found that most of the time the barista eventually cannot catch up with the speed of order. Then we wrote classes to have two baristas working at the same time, which adds some complexity to the simulation, and is more realistic.
+We first designed a relatively simple scenario where there was only one barista. Based on the simulation outcomes we found that most of the time the barista eventually cannot catch up with the speed of order, because we set the mean of time of ordering a cup of coffee to be smaller than the mean of time of making a cup of coffee. Then we wrote classes to have two baristas working at the same time, which adds some complexity to the simulation, and is more realistic.
 1. The wait time and break time do follow normal distribution. 
 2. The barista B does have more break time.
 
